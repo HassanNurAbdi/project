@@ -1,0 +1,110 @@
+C:\Users\akeey\Documents\Visual Studio 2012\Projects\Financial System Software (CCORD)\Financial System Software (CCORD)\bin\Debug\Financial System Software (CCORD).exe.config
+C:\Users\akeey\Documents\Visual Studio 2012\Projects\Financial System Software (CCORD)\Financial System Software (CCORD)\bin\Debug\Financial System Software (CCORD).exe
+C:\Users\akeey\Documents\Visual Studio 2012\Projects\Financial System Software (CCORD)\Financial System Software (CCORD)\bin\Debug\Financial System Software (CCORD).pdb
+C:\Users\akeey\Documents\Visual Studio 2012\Projects\Financial System Software (CCORD)\Financial System Software (CCORD)\bin\Debug\Financial System Software (CCORD).xml
+C:\Users\akeey\Documents\Visual Studio 2012\Projects\Financial System Software (CCORD)\Financial System Software (CCORD)\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\akeey\Documents\Visual Studio 2012\Projects\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.About.resources
+C:\Users\akeey\Documents\Visual Studio 2012\Projects\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Chart_Report.resources
+C:\Users\akeey\Documents\Visual Studio 2012\Projects\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Daily.resources
+C:\Users\akeey\Documents\Visual Studio 2012\Projects\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Form1.resources
+C:\Users\akeey\Documents\Visual Studio 2012\Projects\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.home.resources
+C:\Users\akeey\Documents\Visual Studio 2012\Projects\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Monthly.resources
+C:\Users\akeey\Documents\Visual Studio 2012\Projects\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Resources.resources
+C:\Users\akeey\Documents\Visual Studio 2012\Projects\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.transaction.resources
+C:\Users\akeey\Documents\Visual Studio 2012\Projects\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Yearly.resources
+C:\Users\akeey\Documents\Visual Studio 2012\Projects\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).vbproj.GenerateResource.Cache
+C:\Users\akeey\Documents\Visual Studio 2012\Projects\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).exe
+C:\Users\akeey\Documents\Visual Studio 2012\Projects\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).xml
+C:\Users\akeey\Documents\Visual Studio 2012\Projects\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).pdb
+D:\h\Financial System Software (CCORD)\Financial System Software (CCORD)\bin\Debug\Financial System Software (CCORD).exe.config
+D:\h\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).exe
+D:\h\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).xml
+D:\h\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).pdb
+D:\h\Financial System Software (CCORD)\Financial System Software (CCORD)\bin\Debug\Financial System Software (CCORD).exe
+D:\h\Financial System Software (CCORD)\Financial System Software (CCORD)\bin\Debug\Financial System Software (CCORD).pdb
+D:\h\Financial System Software (CCORD)\Financial System Software (CCORD)\bin\Debug\Financial System Software (CCORD).xml
+D:\h\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.About.resources
+D:\h\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Daily.resources
+D:\h\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Form1.resources
+D:\h\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.home.resources
+D:\h\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Monthly.resources
+D:\h\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Resources.resources
+D:\h\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.transaction.resources
+D:\h\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Yearly.resources
+D:\h\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).vbproj.GenerateResource.Cache
+D:\h\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Loginform.resources
+D:\h\Financial System Software (CCORD)\Financial System Software (CCORD)\bin\Debug\Financial System Software (CCORD).exe.manifest
+D:\h\Financial System Software (CCORD)\Financial System Software (CCORD)\bin\Debug\Financial System Software (CCORD).application
+D:\h\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).exe.manifest
+D:\h\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).application
+D:\h\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.UserLogin.resources
+D:\h\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Splaashvb.resources
+D:\h\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.SearchForm.resources
+D:\just semesters\Financial System Software (CCORD)\Financial System Software (CCORD)\bin\Debug\Financial System Software (CCORD).exe.config
+D:\just semesters\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).exe
+D:\just semesters\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).xml
+D:\just semesters\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).pdb
+D:\just semesters\Financial System Software (CCORD)\Financial System Software (CCORD)\bin\Debug\Financial System Software (CCORD).exe.manifest
+D:\just semesters\Financial System Software (CCORD)\Financial System Software (CCORD)\bin\Debug\Financial System Software (CCORD).application
+D:\just semesters\Financial System Software (CCORD)\Financial System Software (CCORD)\bin\Debug\Financial System Software (CCORD).exe
+D:\just semesters\Financial System Software (CCORD)\Financial System Software (CCORD)\bin\Debug\Financial System Software (CCORD).pdb
+D:\just semesters\Financial System Software (CCORD)\Financial System Software (CCORD)\bin\Debug\Financial System Software (CCORD).xml
+D:\just semesters\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.About.resources
+D:\just semesters\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.SearchForm.resources
+D:\just semesters\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Daily.resources
+D:\just semesters\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Form1.resources
+D:\just semesters\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.home.resources
+D:\just semesters\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Monthly.resources
+D:\just semesters\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Resources.resources
+D:\just semesters\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Loginform.resources
+D:\just semesters\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Splaashvb.resources
+D:\just semesters\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.transaction.resources
+D:\just semesters\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.UserLogin.resources
+D:\just semesters\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Yearly.resources
+D:\just semesters\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).vbproj.GenerateResource.Cache
+D:\just semesters\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).exe.manifest
+D:\just semesters\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).application
+D:\just semesters\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).vbprojResolveAssemblyReference.cache
+D:\semester 5\Financial System Software (CCORD)\Financial System Software (CCORD)\bin\Debug\Financial System Software (CCORD).exe.config
+D:\semester 5\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).exe
+D:\semester 5\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).xml
+D:\semester 5\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).pdb
+D:\semester 5\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).vbprojResolveAssemblyReference.cache
+D:\semester 5\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.About.resources
+D:\semester 5\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.SearchForm.resources
+D:\semester 5\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Daily.resources
+D:\semester 5\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Form1.resources
+D:\semester 5\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.home.resources
+D:\semester 5\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Monthly.resources
+D:\semester 5\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Resources.resources
+D:\semester 5\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Loginform.resources
+D:\semester 5\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Splaashvb.resources
+D:\semester 5\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.transaction.resources
+D:\semester 5\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.UserLogin.resources
+D:\semester 5\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Yearly.resources
+D:\semester 5\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).vbproj.GenerateResource.Cache
+C:\Users\H\Desktop\Financial System Software (CCORD)\Financial System Software (CCORD)\bin\Debug\Financial System Software (CCORD).exe.config
+C:\Users\H\Desktop\Financial System Software (CCORD)\Financial System Software (CCORD)\bin\Debug\Financial System Software (CCORD).exe.manifest
+C:\Users\H\Desktop\Financial System Software (CCORD)\Financial System Software (CCORD)\bin\Debug\Financial System Software (CCORD).application
+C:\Users\H\Desktop\Financial System Software (CCORD)\Financial System Software (CCORD)\bin\Debug\Financial System Software (CCORD).exe
+C:\Users\H\Desktop\Financial System Software (CCORD)\Financial System Software (CCORD)\bin\Debug\Financial System Software (CCORD).pdb
+C:\Users\H\Desktop\Financial System Software (CCORD)\Financial System Software (CCORD)\bin\Debug\Financial System Software (CCORD).xml
+C:\Users\H\Desktop\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).vbprojResolveAssemblyReference.cache
+C:\Users\H\Desktop\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.About.resources
+C:\Users\H\Desktop\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.SearchForm.resources
+C:\Users\H\Desktop\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Daily.resources
+C:\Users\H\Desktop\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Form1.resources
+C:\Users\H\Desktop\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.home.resources
+C:\Users\H\Desktop\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Monthly.resources
+C:\Users\H\Desktop\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Resources.resources
+C:\Users\H\Desktop\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Loginform.resources
+C:\Users\H\Desktop\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Splaashvb.resources
+C:\Users\H\Desktop\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.transaction.resources
+C:\Users\H\Desktop\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.UserLogin.resources
+C:\Users\H\Desktop\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial_System_Software__CCORD_.Yearly.resources
+C:\Users\H\Desktop\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).vbproj.GenerateResource.Cache
+C:\Users\H\Desktop\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).exe.manifest
+C:\Users\H\Desktop\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).application
+C:\Users\H\Desktop\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).exe
+C:\Users\H\Desktop\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).xml
+C:\Users\H\Desktop\Financial System Software (CCORD)\Financial System Software (CCORD)\obj\Debug\Financial System Software (CCORD).pdb
